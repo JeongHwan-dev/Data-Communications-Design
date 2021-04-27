@@ -2,7 +2,7 @@
 
 ## 1. 사용 언어
 
-![C언어 로고](/Images/c_logo.png)
+<img src="/Images/c_logo.png" width="100" height="100" />
 
 
 
