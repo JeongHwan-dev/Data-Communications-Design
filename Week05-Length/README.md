@@ -4,13 +4,13 @@
 
 ## 실행 화면
 
-<img src="/Images/week05_result1.png" width="600" height="400" />
+<img src="/Images/week05_result1.png" width="600" height="300" />
 
-<img src="/Images/week05_result2.png" width="600" height="400" />
+<img src="/Images/week05_result2.png" width="600" height="300" />
 
-<img src="/Images/week05_result3.png" width="600" height="400" />
+<img src="/Images/week05_result3.png" width="600" height="300" />
 
-<img src="/Images/week05_result4.png" width="600" height="400" />
+<img src="/Images/week05_result4.png" width="600" height="300" />
 
-<img src="/Images/week05_result5.png" width="600" height="400" />
+<img src="/Images/week05_result5.png" width="600" height="300" />
 
