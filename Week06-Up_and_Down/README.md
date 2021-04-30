@@ -4,7 +4,7 @@
 
 ## 실행 화면
 
-<img src="/images/week06_result1.png" width="600" height="300" />
+<img src="/images/week06_result1.png" width="600" height="350" />
 
 <img src="/images/week06_result2.png" width="600" height="300" />
 
