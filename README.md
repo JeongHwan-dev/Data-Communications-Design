@@ -1,4 +1,4 @@
-# :satellite: ​데이터통신설계 (Data Communications Design Class)
+# :satellite: ​데이터통신설계 (Data Communications Design)
 
 ## 1. 사용 언어
 
