@@ -1,8 +1,12 @@
-# :satellite: ​데이터통신설계
+# :satellite: ​데이터통신설계 (Data Communications Design Class)
 
 ## 1. 사용 언어
 
-<img src="/Images/c_logo.png" width="100" height="100" />
+<p align="left"> 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> 
+    </a>
+</p>
 
 
 
