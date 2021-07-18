@@ -6,6 +6,13 @@
   <br />
 </div>
 
+## 목차
+
+1. 기술 스택
+2. 주차별 과제 목록
+
+<br />
+
 ## 🛠 기술 스택
 
 - ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=c&logoColor=white)
