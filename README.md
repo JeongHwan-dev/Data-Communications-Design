@@ -2,25 +2,24 @@
   <br />
   <img src="./images/data_communication_logo.jpg" alt="Data Communication" height="200px" />
   <br />
-  <br />
-  <h1>:satellite: ​데이터통신설계 (Data Communications Design)</h1>
+  <h1>데이터통신설계 (Data Communications Design)</h1>
   <br />
 </div>
 
 ## 목차
 
-1. [기술 스택](#1-기술-스택)
-2. [주차별 과제 목록](#2-주차별-과제-목록)
+1. [기술 스택](#기술-스택)
+2. [주차별 과제 목록](#주차별-과제-목록)
 
 <br />
 
-## 1. 기술 스택
+## 기술 스택
 
 - ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=c&logoColor=white)
 
 <br />
 
-## 2. 주차별 과제 목록
+## 주차별 과제 목록
 
 |  주차  |                              과제 내용                               |
 | :----: | :------------------------------------------------------------------: |
